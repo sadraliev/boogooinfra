@@ -2,3 +2,4 @@ terraform/.terraform
 terraform/*tfvars
 terraform/.backup
 terraform/.ssh
+terraform/terraform.tfstate.backup
